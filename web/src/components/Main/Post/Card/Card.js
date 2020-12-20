@@ -37,7 +37,7 @@ export default function PostCard({ filteredPost, users, categories, comments }) 
   const filterCommentsLike = comments.filter(comment => comment.postId === filteredPost.id && comment.like === true);
   const likeComment = filterCommentsLike.map(comment => comment.like);
 
-  //filtrando os likes por posts e os que são true
+  //filtrando os comentários por post
   const filterComments = comments.filter(comment => comment.postId === filteredPost.id);
   const comment = filterComments.map(comment => comment.id);
   
