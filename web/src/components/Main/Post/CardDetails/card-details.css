@@ -1,0 +1,28 @@
+.card-container-details {
+    max-width: 800px;
+    margin: 0px auto;
+}
+
+.card-container-details .card-content {
+    padding: 20px 16px 25px 16px !important;
+}
+
+.card-container-details .card-actions {
+    border-top: 1px solid #EEE9E9;
+    justify-content: space-between;
+    padding: 12px 8px !important;
+}
+
+.card-container-details .item-actions {
+    margin: 0px 10px;
+}
+
+.card-container-details .botao {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.card-container-details .botao a {
+    color: #000;
+    text-decoration: none;
+}

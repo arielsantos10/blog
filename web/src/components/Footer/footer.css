@@ -1,0 +1,24 @@
+.footer {
+    position: absolute;
+    background-color: #43425d;
+    color: #fff;
+    width:100%;
+    height:auto;
+    bottom:0;
+}
+
+.footer .redes-sociais {
+    background-color: #d0c7db;
+    border-top: 1px solid #43425d;
+    padding: 20px 0px;
+    text-align: center;
+}
+
+.footer .direitos {
+    padding: 20px 0px;
+    text-align: center;
+}
+
+.footer .icon {
+    margin: 0px 10px;
+}

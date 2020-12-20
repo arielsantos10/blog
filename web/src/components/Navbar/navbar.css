@@ -1,0 +1,28 @@
+.navbar {
+    background-color: #43425d;
+    width: 100%;
+    height: auto;
+    justify-content: space-between;
+    display: flex;
+    position: fixed;
+    margin-top: -51px;
+    z-index: 1111111111;
+}
+
+.navbar a {
+    text-decoration: none;
+}
+
+.navbar h1 {
+    margin: 10px 20px;
+    color: #fff;
+    font-family: cursive;
+}
+
+.navbar .perfil {
+    margin: 10px 20px;
+    text-transform: uppercase;
+    font-size: .9em;
+    align-self: center;
+    color: #fff;
+}

@@ -1,0 +1,19 @@
+.fundo-comentarios {
+    margin: 30px 20px;
+}
+
+.fundo-comentarios .comentario {
+    display: flex;
+    padding: 20px;
+}
+
+.fundo-comentarios .comentario .texto-comentairo {
+    margin-left: 10px;
+}
+
+
+.fundo-comentarios .comentario .texto-comentairo .caixa-comentario {
+    background-color: #ccc;
+    padding: 10px;
+    margin-bottom: 5px;
+}

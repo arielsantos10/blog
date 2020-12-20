@@ -1,0 +1,11 @@
+.App {
+  background-color: #d0c7db;
+  height: 100%;
+  min-height: 100vh;
+  color: white;
+}
+
+.App main {
+  margin: 51px 40px;
+  padding: 50px 0px 70px 0px;
+}

@@ -1,0 +1,22 @@
+.container-card {
+    margin: 0px 0px 20px 0px;
+}
+
+.card-content {
+    padding: 20px 16px 25px 16px !important;
+}
+
+.card-actions {
+    border-top: 1px solid #EEE9E9;
+    justify-content: space-between;
+    padding: 12px 8px !important;
+}
+
+.item-actions {
+    margin: 0px 20px;
+}
+
+.card-actions a {
+    color: #000;
+    text-decoration: none;
+}

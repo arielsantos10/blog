@@ -1,0 +1,14 @@
+.card-container-perfil {
+    width: auto;
+    margin: 10px auto;
+}
+
+.card-container-perfil .card-content {
+    display: flex;
+    flex-wrap: wrap;
+    margin: 15px;
+}
+
+.card-container-perfil .texto-perfil {
+    margin-left: 20px;
+}

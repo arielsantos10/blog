@@ -1,0 +1,32 @@
+.container-perfil {
+    flex-wrap: wrap;
+    display: flex;
+}
+
+.container-search {
+    display: flex;
+    justify-content: space-between;
+}
+
+.container-search .card {
+    width: 70%;
+}
+
+.container-search .sidebar {
+    width: 25%;
+}
+
+@media screen and (max-width: 800px) {
+    .container-search {
+        flex-direction: column-reverse;
+    }
+
+    .container-search .card {
+        width: 100%;
+    }
+    
+    .container-search .sidebar {
+        width: 100%;
+    }
+    
+  }
